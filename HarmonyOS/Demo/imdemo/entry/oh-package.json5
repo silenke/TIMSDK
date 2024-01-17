@@ -5,6 +5,12 @@
   "main": "",
   "author": "",
   "license": "",
-  "dependencies": {}
+  "dependencies": {
+    "@tencentcloud/imsdk": "file:./imsdk-ohos-7.7.5294.har"
+  },
+  "devDependencies": {
+    "pako": "^2.1.0",
+    "@ohos/crypto-js": "^2.0.1"
+  }
 }
 
