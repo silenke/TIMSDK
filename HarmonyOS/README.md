@@ -18,7 +18,7 @@
 
    > **说明**
    >
-   > - 如果您已有应用，请记录其 SDKAppID 信息， 直接跳到 [步骤 2：获取 SDKAppID 和密钥信息](https://github.com/silenke/TIMSDK/tree/ohos/HarmonyOS/Demo#步骤-2获取-sdkappid-和密钥信息)。
+   > - 如果您已有应用，请记录其 SDKAppID 信息， 直接跳到 [步骤 2：获取 SDKAppID 和密钥信息](#步骤-2获取-sdkappid-和密钥信息)。
    > - 单个腾讯云账号最多可创建 300 个应用。若已有 300 个应用，您可以先 [停用并删除](https://cloud.tencent.com/document/product/269/32578#.E5.81.9C.E7.94.A8.2F.E5.88.A0.E9.99.A4.E5.BA.94.E7.94.A8) 不再使用的应用后，再创建新的应用。**应用删除后，该 SDKAppID 对应的所有数据和服务不可恢复，请谨慎操作。**
 
 2. 在**应用管理**页面，单击**创建新应用**。
@@ -55,9 +55,9 @@
 
 3. 设置 `GenerateTestUserSig.ts` 文件中的相关参数：
 
-- SDKAPPID：请设置为 [步骤 1](https://github.com/silenke/TIMSDK/tree/ohos/HarmonyOS/Demo#步骤-1创建应用) 中获取的实际应用 SDKAppID。
+- SDKAPPID：请设置为 [步骤 1](#步骤-1创建应用) 中获取的实际应用 SDKAppID。
 
-- SECRETKEY：请设置为 [步骤 2](https://github.com/silenke/TIMSDK/tree/ohos/HarmonyOS/Demo#步骤-2获取-sdkappid-和密钥信息) 中获取的实际密钥信息。
+- SECRETKEY：请设置为 [步骤 2](#步骤-2获取-sdkappid-和密钥信息) 中获取的实际密钥信息。
 
   ![](https://im.sdk.qcloud.com/doc/HarmonyOS/doc-image/5.png)
 
